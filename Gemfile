@@ -20,6 +20,10 @@ gem 'uglifier', '>= 1.3.0'
 gem 'httparty'
 gem 'geocoder'
 # gem 'therubyracer', platforms: :ruby
+gem 'figaro'
+gem 'jquery-rails'
+gem 'bootstrap-sass'
+gem 'font-awesome-rails'
 
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2'
